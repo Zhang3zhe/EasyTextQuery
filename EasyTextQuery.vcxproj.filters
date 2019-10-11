@@ -23,5 +23,8 @@
     <ClInclude Include="vector_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="TextQuery.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
