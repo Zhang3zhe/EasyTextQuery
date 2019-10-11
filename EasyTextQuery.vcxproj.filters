@@ -20,11 +20,16 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="vector_test.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="TextQuery.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="QueryResult.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Text.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

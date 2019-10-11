@@ -1,0 +1,24 @@
+MEC technology enables localized, close and
+distributed deployments of applications, services and
+contents by using computing, storage, and communication
+resources of the edge devices which
+are closer to the user equipment, thereby
+improving the performance of mobile networks and the
+quality of user experience. Recently, the
+emerging technology of fog computing further extends
+the traditional model of cloud computing and edge
+computing. As shown in Figure 5.1, fog
+computing exploits the computing, storage,
+communication and control functions of the devices
+from cloud to network edge until terminal, which
+enables services to be distributed anywhere
+along the continuum between cloud and things.
+By flexibly allocating and managing the various
+resources in the cloud-to-thing continuum,
+fog computing can efficiently and intelligently provide
+services for multiple vertical industries and
+applications domains, which further reduces the traffic
+load on communication networks, reduces the
+transmission delay and computing delay, and
+improves the resource utilization efficiency
+and energy efficiency of the system.
